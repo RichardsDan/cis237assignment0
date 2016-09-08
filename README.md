@@ -2,7 +2,7 @@
 ## Due: 9-13-2016
 
 ## Author
-
+Daniel Richards
 ## Description
 
 You are to follow the below steps to practice using GIT. This will help prepare you for submitting all of your assignments for this class.
@@ -14,11 +14,8 @@ You are to follow the below steps to practice using GIT. This will help prepare 
 3. Update README.md with the missing information for the following sections: (Just because you didn't need any outside resources, or have any problems with this does not mean you should leave the section blank. Put the word 'None' if there were/are none. Otherwise I won't know whether you filled out the README completely or forgot to do some of it.)
 
   1. Author
-  Daniel Richards
   2. Outside Resources Used
-  None
   3. Known Problems, Issues, And/Or Errors in the Program
-  None
 
 4. Add/Stage the changes you made.
 
@@ -34,5 +31,6 @@ If you need some help on how to write proper Markdown for the README file, you c
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Outside Resources Used
-
+None
 ## Known Problems, Issues, And/Or Errors in the Program
+None
